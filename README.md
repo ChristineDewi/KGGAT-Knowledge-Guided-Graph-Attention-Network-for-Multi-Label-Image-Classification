@@ -7,9 +7,10 @@ Christine Dewi, Dhananjay R Thiruvady, Nayyar Zaidi
 Multi-label image classification requires understanding not only the visual features of individual objects but also their semantic relationships within a scene. To address this challenge, we propose KGGAT—a Knowledge-Guided Graph Attention Network that integrates external knowledge graphs with attention-based visual reasoning. Unlike conventional transformer-based models that rely solely on visual correlations, KGGAT incorporates structured semantic priors from ConceptNet-55 and OpenAI-derived knowledge graphs to explicitly model inter-label dependencies. A dual-path architecture couples a Graph Attention Network (GAT) for label reasoning with a transformer-based visual encoder, enabling cross-modal alignment between visual and semantic spaces. In addition, an element-wise addition fusion strategy and an Asymmetric Loss (ASL) objective enhance feature interaction and effectively mitigate class imbalance. Extensive experiments on MS-COCO and Pascal VOC 2007 demonstrate that KGGAT achieves state-of-the-art performance, attaining 89.21% mAP and 96.85% mAP, respectively. Qualitative analyses further show that KGGAT provides accurate object localization and interpretable label reasoning across diverse scenes, validating its effectiveness in knowledge-guided multi-label image classification. Code and pretrained models will be released to facilitate future research on knowledge-guided visual understanding.
 
 
-<img width="500" height="507" alt="image" src="https://github.com/user-attachments/assets/3410fcf9-8b98-437a-88f8-6a5d72ae4c00" />
+<img width="2838" height="1617" alt="Copy of KGGAT2 drawio" src="https://github.com/user-attachments/assets/fbee1aa7-1ff2-4239-974a-356fa48577af" />
 
-<img width="518" height="511" alt="image" src="https://github.com/user-attachments/assets/536ff8b5-09d6-4161-82ce-6967aa0ebf65" />
+<img width="1563" height="1020" alt="KGAT2 drawio" src="https://github.com/user-attachments/assets/5a4a9b42-7024-4a20-9f0f-5cc2ba433e0d" />
+
 
 
 ### Clone the project from :
