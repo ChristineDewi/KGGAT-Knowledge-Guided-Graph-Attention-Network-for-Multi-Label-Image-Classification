@@ -51,6 +51,6 @@ yields a denser, more balanced semantic graph.
 
 ### Accepted CVPR Findings 2026
 
-
+https://cvpr.thecvf.com/ 
 
 
