@@ -49,5 +49,8 @@ yields a denser, more balanced semantic graph.
 <img width="570" height="698" alt="image" src="https://github.com/user-attachments/assets/786c0353-7957-49e5-b3a4-167d7c8fa34d" />
 
 
+### Accepted CVPR Findings 2026
+
+
 
 
